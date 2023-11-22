@@ -1,10 +1,13 @@
 # odoo_tidy_debug
-Active debug mode in odoo with single click
+
 
 <h1 align="center">
     <img src="icons/assets_128.png"/>
     <div>Odoo Tidy Debug</div>
 </h1>
+
+
+<h1>Active debug mode in odoo with single click  </h1>
 
 <div align="center">
 	<img src="images/debug_tidy_poster.png"/>
@@ -22,10 +25,10 @@ Relase Notes
 <tr>
 	<th>
 		Version
-  	<th> 
+  	</th> 
 	<th>
 		Release Date
-  	<th> 
+  	</th> 
 </tr>
 <tbody>
 	<tr>
