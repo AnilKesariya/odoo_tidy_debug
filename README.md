@@ -2,7 +2,7 @@
 Active debug mode in odoo with single click
 
 <h1 align="center">
-    <img src="images/assets_128.png"/>
+    <img src="icons/assets_128.png"/>
     <div>Odoo Tidy Debug</div>
 </h1>
 
