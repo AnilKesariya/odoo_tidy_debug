@@ -29,6 +29,9 @@ Relase Notes
 	<th>
 		Release Date
   	</th> 
+	<th>
+		Change Log
+  	</th> 
 </tr>
 <tbody>
 	<tr>
@@ -37,6 +40,9 @@ Relase Notes
 		</td>
 		<td>
  			Date : 23/11/2023
+		</td>
+		<td>
+ 			Released first version of application
 		</td>
 	</tr>
 <tbody>
