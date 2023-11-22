@@ -15,10 +15,8 @@
 </div>
 
 <h2>
-Relase Notes
+	Release Notes
 </h2>
-
-<h5>
 
 <table class="table table-bordered">
 <thead>
@@ -61,9 +59,6 @@ Relase Notes
 		Visual Studio
 	</li>
 </ul>
-
-
-</h5>
 
 <h2>Inspiration</h2>
 
