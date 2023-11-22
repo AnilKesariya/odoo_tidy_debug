@@ -17,30 +17,31 @@ Relase Notes
 
 <h5>
 
-<table>
+<table class="table table-bordered">
+<thead>
 <tr>
-  <th>
-	Version
-  <th> 
-<th>
-	Release Date
-  <th> 
+	<th>
+		Version
+  	<th> 
+	<th>
+		Release Date
+  	<th> 
 </tr>
 <tbody>
 	<tr>
 		<td>
-		Version 1.0
+			Version 1.0
 		</td>
 		<td>
- 		Date : 23/11/2023
+ 			Date : 23/11/2023
 		</td>
 	</tr>
 <tbody>
 </table>
 
 <h2> Tools Used</h2>
-<ul>
 
+<ul>
 	<li>
 		Github
 	</li>
@@ -50,8 +51,9 @@ Relase Notes
 	<li>
 		Visual Studio
 	</li>
-
 </ul>
+
+
 </h5>
 
 <h2>Inspiration</h2>
