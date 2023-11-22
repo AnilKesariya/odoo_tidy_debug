@@ -61,4 +61,4 @@ Relase Notes
 
 <h2>Inspiration</h2>
 
-Odoo Dubug | Odoo Debug Pro
+Odoo Debug | Odoo Debug Pro
