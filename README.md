@@ -7,7 +7,7 @@
 </h1>
 
 
-<h1>Active debug mode in odoo with single click  </h1>
+<h2>Active debug mode in odoo with single click, Pin a classy icon on your extension!</h2>
 
 <div align="center">
 	<img src="images/debug_tidy_poster.png"/>
