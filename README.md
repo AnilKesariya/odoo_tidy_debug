@@ -43,6 +43,28 @@
  			Released first version of application
 		</td>
 	</tr>
+	<tr>
+		<td>
+			Version 1.1
+		</td>
+		<td>
+ 			Date : 23/11/2023
+		</td>
+		<td>
+ 			Improvements in readme and poster.
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Version 1.2
+		</td>
+		<td>
+ 			Date : 23/11/2023
+		</td>
+		<td>
+ 			Fixed the bug and also update icons and poster to increase visibility
+		</td>
+	</tr>
 <tbody>
 </table>
 
