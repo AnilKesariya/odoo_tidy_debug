@@ -68,6 +68,7 @@
 <tbody>
 </table>
 
+Install for Google Chrom : https://chromewebstore.google.com/detail/odoo-debug-tidy/mlpkjgidgfchcdgpcpknagckedhpkckb
 <h2> Tools Used</h2>
 
 <ul>
